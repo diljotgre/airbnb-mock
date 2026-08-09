@@ -1,4 +1,4 @@
-# airbnb-mock  My first SWE Project
+# airbnb-mock 
 
 
 Still in progress!
